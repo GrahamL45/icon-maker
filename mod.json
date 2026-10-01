@@ -1,0 +1,15 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081"
+	},
+	"id": "wlust.iconmaker",
+	"name": "Icon Maker",
+	"version": "1.0.0",
+	"developer": "wlust",
+	"description": "Create layered Geometry Dash icon artwork and export a PNG spritesheet with its plist.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
